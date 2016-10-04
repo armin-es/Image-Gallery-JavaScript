@@ -14,7 +14,7 @@ function upDate(previewPic){
 
 
 function unDo(){
-    document.getElementById('image').innerHTML = "Hover over an image below to display here.";
+    document.getElementById('image').innerHTML = "Hover over an image below to display here!";
     document.getElementById('image').style.backgroundImage = "";
 /* This function is called when the mouse pointer exits img tags, which
 1) updates the url for the background image of the div with the id = "image"
