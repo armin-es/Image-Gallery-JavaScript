@@ -6,19 +6,19 @@
 }
 
 body {
-	margin: 2%;
-	background-color: #e8e8e8;
+    margin: 2%;
+    background-color: #e8e8e8;
 }
 
 #image {
     line-height: 680px;
 
-	width: 648px;
+    width: 648px;
     height: 364px;
 
-	border: 5px solid black;
+    border: 5px solid black;
 
-	margin: 0 auto;
+    margin: 0 auto;
     margin-bottom: 25px;
 
     background: rgba(40,150,24,0.8) url('') center/100% no-repeat;
@@ -30,8 +30,8 @@ body {
 }
 
 .preview {
-	width: 10%;
-	margin-left: 17%;
+    width: 10%;
+    margin-left: 17%;
     border: 10px solid black;
 }
 
