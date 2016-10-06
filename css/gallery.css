@@ -1,15 +1,17 @@
-/*Name this external file gallery.css*/
 
+/* Centering the header */
 .heading {
     text-align: center;
     font-family: sans-serif;
 }
 
+/* Grey background */
 body {
     margin: 2%;
     background-color: #e8e8e8;
 }
 
+/* Styling the large area used for demonstrating the images */
 #image {
     line-height: 680px;
 
@@ -29,6 +31,7 @@ body {
     text-align: center;
 }
 
+/* Styling the preview images */
 .preview {
     width: 10%;
     margin-left: 17%;
